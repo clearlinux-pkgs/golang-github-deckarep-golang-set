@@ -4,7 +4,7 @@
 #
 Name     : golang-github-deckarep-golang-set
 Version  : 1f0f4ff8d3fbef9328522993ce71c35890f67554
-Release  : 3
+Release  : 4
 URL      : https://github.com/deckarep/golang-set/archive/1f0f4ff8d3fbef9328522993ce71c35890f67554.tar.gz
 Source0  : https://github.com/deckarep/golang-set/archive/1f0f4ff8d3fbef9328522993ce71c35890f67554.tar.gz
 Summary  : No detailed summary available
